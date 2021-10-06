@@ -285,13 +285,25 @@ text-decoration: none;
 
 .container9 {
     border: 2px solid #ccc;
-    background-color: rgb(113, 84, 126);
     border-radius: 5px;
     padding: 16px;
     margin: 10px 0;
     font-size: 10px;
     color: #ccc;
   }
+.container-testo1{
+    background-color: blue;
+}
+.container-testo2{
+    background-color: teal;
+}
+.container-testo3{
+    background-color: #8b9c82f5;
+}
+}
+.container-testo4{
+    background-color: #d89031;
+}
   /* Clear floats after containers */
   .container9::after {
     content: "";
