@@ -67,11 +67,11 @@ z-index: 3;
     border-bottom: rgba(0, 0, 0, 0.459) solid transparent;
     font-weight: bold;
     width: auto;
-    
+     list-style: none;
    
     
 }
- .links li:hover
+.navbar .links li:hover
 {
     color: rgb(76,47,90);
     border-bottom: 2px solid rgb(76,47,90);
