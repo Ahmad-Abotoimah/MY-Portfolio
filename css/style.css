@@ -121,7 +121,7 @@ z-index: 3;
 }
     
 }
- a {
+.nav-links {
     text-decoration: none !important;
     color:rgb(76,47,90) !important;
 }
