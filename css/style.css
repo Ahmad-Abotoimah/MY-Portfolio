@@ -211,9 +211,26 @@ div section h1 {
     text-align: right; 
     color: white; 
   }
-.svg-css{
-    width:50px;
-    height:50px; 
+.svg1-css{
+    right: 88%;
+    position: absolute;
+    width: 29px;
+    height: 55px;
+    top: 390%;
+}
+.svg2-css{
+    right: 88%;
+    position: absolute;
+    width: 29px;
+    height: 55px;
+    top: 398%;
+}
+.svg3-css{
+    right: 88%;
+    position: absolute;
+    width: 29px;
+    height: 55px;
+    top: 405%;
 }
   
   .html {width: 95%; background-color:rgb(120, 39, 112) ;}
