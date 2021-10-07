@@ -80,6 +80,7 @@ z-index: 3;
     text-align: center;
     
 }
+
 .navbar .links li:hover
 {
     color: green ;
@@ -120,7 +121,7 @@ z-index: 3;
 }
     
 }
-li a {
+.links li a {
     text-decoration: none;
     color:rgb(76,47,90)
 }
