@@ -211,6 +211,10 @@ div section h1 {
     text-align: right; 
     color: white; 
   }
+.svg-inline--fa{
+    width:50px;
+    height:50px; 
+}
   
   .html {width: 95%; background-color:rgb(120, 39, 112) ;}
   .css {width: 90%; background-color: rgb(120, 39, 112);} 
