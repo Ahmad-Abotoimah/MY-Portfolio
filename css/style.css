@@ -75,10 +75,9 @@ z-index: 3;
     border-radius: 35%;
     height: auto;
     padding: 13px;
-    align-text: center;
     padding-right: 3%;
     text-decoration: none;
-   
+    text-align: center;
     
 }
 .navbar .links li:hover
