@@ -55,7 +55,7 @@ z-index: 3;
     z-index: 2;
     color: rgb(255, 247, 235);
     position: fixed;
-    background: white;
+    background:rgb(255, 247, 235);
     width: 100%;
     text-align: right;
     margin: -2%;
