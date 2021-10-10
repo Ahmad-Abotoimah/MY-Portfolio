@@ -379,6 +379,10 @@ text-align: center;
      color:rgb(113, 84, 126) ;
      margin-top: 18% ;
   }
+.col-md-4 {
+    flex: 0 0 auto;
+    width: 10%;
+}
   .row{
       margin: 5%;
       margin-left: 8%;
